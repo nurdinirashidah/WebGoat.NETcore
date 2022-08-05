@@ -27,6 +27,19 @@
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="5.0.0"/>
     <PackageReference Include="System.Data.SqlClient"  Version="4.8.2"/>
+    <PackageReference Include="BTCPayServer.Client"  Version="1.0.4.2"/>
+    <PackageReference Include="Microsoft.AspNetCore.mvc.Core"  Version="1.1.0"/>
+    <PackageReference Include="Microsoft.ChakraCore"  Version="1.10.0"/>
+    <PackageReference Include="Keystone"  Version="1.1.1"/>
+    <PackageReference Include="Microsoft.NETCore.App"  Version="2.0.3"/>
+    <PackageReference Include="Mono"  Version="2.10.1"/>
+    <PackageReference Include="NopCommerce.Core"  Version="3.20.0"/>
+    <PackageReference Include="Opcfoundation.Netstandard.opc.ua"  Version="0.4.5"/>
+    <PackageReference Include="OrchardCore"  Version="1.2.2"/>
+    <PackageReference Include="Piranha"  Version="9.1.1"/>
+    <PackageReference Include="Sharpcompress"  Version="0.20.0"/>
+    <PackageReference Include="Sustainsys.Saml2"  Version="2.4.0"/>
+    <PackageReference Include="System.Net.Http"  Version="4.3.1"/>
   </ItemGroup>
 
   <ItemGroup>
